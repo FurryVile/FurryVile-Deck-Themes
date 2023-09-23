@@ -1,0 +1,27 @@
+{
+    "name": "Lights Out",
+    "author": "FurryVile",
+    "version": "v1.0",
+    "manifest_version": 3,
+    "target": "System-Wide",
+    "description": "Removes The Game Background From the Main Homepage To Create a Fully Lights Out Theme",
+    "inject": {
+        "shared.css": ["SP"]
+    },
+
+    "dependencies": {
+        "Switch Like Home": {
+            "No Friends": "Yes"
+        },
+        "White Xbox Buttons": {
+            "Apply to Xbox/Nintendo controllers": "Yes"
+        },
+        "Round": {},
+        "Obsidian":{
+            "Main Color": "Black"},
+
+        "No Home Game Glow": {},
+
+        "No Home Edge Fade": {}
+    }
+}
