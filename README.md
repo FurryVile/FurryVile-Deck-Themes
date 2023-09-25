@@ -1,2 +1,2 @@
-# Steam-Deck-Theme-Template
-Template repository to get started with theming quicker
+# FurryViles Steam Deck Theme Repository
+bababa :3 
